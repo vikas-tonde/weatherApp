@@ -1,7 +1,7 @@
 # Weather Info Spring Boot Application
 
 This application provides current weahter for given pincode in <u>**India**</u>.<br>
-This is RESP API with endepoint: <br>
+
 
 To Run this App you need **MySQL** database on your machine. <br>
 Also, you need to create a blank Schema named **weatherapp**.<br>
